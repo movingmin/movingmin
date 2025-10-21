@@ -1,16 +1,29 @@
-# 사이버보안의 미래
+# 🚀 사이버 보안의 미래… 대구대학교의 초신성
 
-<!--
-**movingmin/movingmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👤 나는 누구인가?
+- 경상북도 **고령군** 출신  
+- **대구대학교 사이버보안전공**  
+- 보안, 웹해킹, 시스템 분석에 관심이 많음  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 참여 공모전
+- **(공모전 이름)** — (내용 요약)
+- **(공모전 이름)** — (내용 요약)
+
+---
+
+## 💻 참여 프로젝트
+- **AI 기반 투자 최적화 시뮬레이터**  
+  → [프로젝트 GitHub 링크](https://github.com/username/project)  
+  (AI를 활용해 가상 자금 투자 최적화 시뮬레이션을 구현)
+- **(다른 프로젝트명)**  
+  → [GitHub 링크](https://github.com/username/another-project)
+
+---
+
+## ✨ 나의 목표
+> "끊임없이 학습하고 성장하는 보안 연구자,  
+> 시스템의 약점을 찾고 더 강한 방어를 설계하는 개발자가 되는 것."
