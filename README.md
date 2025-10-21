@@ -17,7 +17,7 @@
 
 ## 💻 참여 프로젝트
 - **AI 기반 투자 최적화 시뮬레이터**  
-  → [프로젝트 GitHub 링크](https://github.com/username/project)  
+  → [프로젝트 GitHub 링크](https://github.com/movingmin/X-AI-Convergence-Capstone-Crew)
   (AI를 활용해 가상 자금 투자 최적화 시뮬레이션을 구현)
 - **(다른 프로젝트명)**  
   → [GitHub 링크](https://github.com/username/another-project)
